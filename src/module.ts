@@ -1,4 +1,5 @@
 import {addComponent, defineNuxtModule} from "@nuxt/kit";
+// @ts-ignore
 import {Halcyon} from "halcyon-vue/plugin";
 import components from "halcyon-vue";
 
